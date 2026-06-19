@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-**인증**
+**인증**    
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white">
 
 **알고리즘, 머신러닝**    
