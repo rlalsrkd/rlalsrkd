@@ -35,7 +35,7 @@
 **인증 | Certification**    
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white">
 
-**데이터 분석 & 머신러닝 | Data analyze & Machine Learning**    
+**데이터 분석 & 머신러닝 | Data Analyze & Machine Learning**    
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white">
