@@ -1,19 +1,3 @@
-# 👤 MY INFO 👤  
-
-<br>
-
-* 📅 **Birth:** <br> 2002.06.14
-* 🎂 **Age:** <br> 24 
-* 🗺️ **Location:** <br> Busan, South Korea 
-* 🎓 **Department:** <br> Software Development
-* ✉️ **E-mail**: <br> gimingng2311@naver.com
-
-<br>
-
----
-
-<br>
-
 # 🔥 TECH STACK 🔥
 
 <br>
