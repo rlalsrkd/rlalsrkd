@@ -70,8 +70,3 @@
 <hr>
 
 <br>
-
-# 📓 Notion 📓  
-<br>
-
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3763bf3a166f80eb9b24d63a9639654d?source=copy_link)
