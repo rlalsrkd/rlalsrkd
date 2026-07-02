@@ -66,3 +66,12 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
 <br>
 > 배운 내용들을 복습하고 트러블슈팅 과정을 기록하는 공간입니다.
+<br>
+<hr>
+
+<br>
+
+# 📓 Notion 📓  
+<br>
+
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3763bf3a166f80eb9b24d63a9639654d?source=copy_link)
