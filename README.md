@@ -1,3 +1,6 @@
+<hr>
+<br>
+
 # 🔥 Tech Stacks 🔥
 
 <br>
