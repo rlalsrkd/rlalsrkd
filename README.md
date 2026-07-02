@@ -25,8 +25,6 @@
 <br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/MYBATIS-252525?style=for-the-badge&logoColor=white">
 
 **📊 데이터 분석 & 머신러닝 | Data Analyze & Machine Learning**    
 <br>
